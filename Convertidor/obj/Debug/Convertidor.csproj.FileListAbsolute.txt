@@ -1,0 +1,14 @@
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.dll.config
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.dll
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.csproj.AssemblyReference.cache
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.csproj.CoreCompileInputs.cache
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.dll
+C:\Users\mlgt0\Dropbox\Mi PC (LAPTOP-VO53MHRQ)\Documents\INGENIERIA DE SOFTWARE\Tecnologías\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.pdb
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.dll.config
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.dll
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.csproj.AssemblyReference.cache
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.csproj.CoreCompileInputs.cache
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.dll
+C:\Users\seren\Desktop\FEI\Octavo\Tecnologías para la construcción de Software\Ejemplo JSON WPF y WCF\ServiciosConvertidor\ServiciosConvertidor\Convertidor\obj\Debug\Convertidor.pdb
